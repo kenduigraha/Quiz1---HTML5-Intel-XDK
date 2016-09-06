@@ -399,3 +399,9 @@ body#afui .splt {
     background-attachment: fixed;
   }
 }
+@media all {
+  #afui .materi-frame {
+    height: 650px;
+    width: 100%;
+  }
+}
